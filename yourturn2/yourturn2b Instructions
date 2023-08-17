@@ -1,0 +1,6 @@
+Now let's protect our instance variables by using getters and setters
+Ensure that the number of candles is not set to a negative number.  If it is, throw and exception
+Next, add a constructor to allow constructor injection to set the three instance variables.
+Finally, you'll want to add an empty constructor
+
+Now, make changes to your test class to instantiate a Cake object using the empty constructor and using setter-injection to set it up and instantiate another Cake object using constructor-injection to set it up 
