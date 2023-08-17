@@ -1,0 +1,11 @@
+Write a Heart class that contains an instance variable called
+BPM  (beatsPerMinute) that tracks how many beats per minute
+the heart is beating
+
+add a constructor and getter and setter as needed
+Be sure that BPM can't be set to anything less than 50 beats
+per minute.  throw an exception if needed.
+
+add a method called oneMinute that will print out
+"Thumpity" for every heart beat in a minute.
+So, if BPM was set to 67, then Thumpity will print out 67 times

@@ -1,0 +1,12 @@
+Write a class called CellPhone which
+    - has an instance variable called powerOn which is boolean and set to true when the phone is on and false when the phone
+is off.
+    - has an instance variable called inUse which is boolean and set to true when the phone is being used and false when the
+phone is hung up
+
+-has a method called powerButton which will turn the phone on if it was off and off if it was on.
+
+-has a method called makeCall which accept an int, make sure the phone is on, make sure the phone isn't inUse and then will
+print "Calling....<the number passed in>"  It should also set the inUse instance variable to true.  If an attempt is made to try to make a call with phone off, throw an exception
+
+-has a method called hangUp which will hang up the phone by making the inUse variable to false
