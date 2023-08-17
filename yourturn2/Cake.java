@@ -2,9 +2,9 @@ package yourturn2;
 
 public class Cake {
 
-	int numberOfCandles; 
-	String icingFlavour; 
-	String message; 
+	private int numberOfCandles; 
+	private String icingFlavour; 
+	private String message; 
 
 	
 	
