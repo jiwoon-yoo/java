@@ -1,0 +1,4 @@
+423,Ice Cream,8.99
+983,Chips,4.99
+173,Pizza,14.99
+123,peanuts, cashews, and pretzels mix,4.99
